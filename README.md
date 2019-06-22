@@ -7,8 +7,12 @@ it's a tool to check the ids in file Localizable.strings for XCode project.
 <code>  
 	./checkStringIds ./checkStringIds ../resource_for_testing/  
 </code>  
-![](./demo.png)   
+![](./demo.png)  
+## Concept
 ![](./Slide2.png)  
 ![](./Slide3.png)  
 ![](./Slide4.png)  
+
+
+
 
