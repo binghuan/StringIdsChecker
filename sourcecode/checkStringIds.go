@@ -136,7 +136,9 @@ func main() {
 	}
 	if result == true {
 		fmt.Println("\n^_^b OK> All StringIds are uniquie")
+		os.Exit(0)
 	} else {
 		fmt.Println("\nX_X! NG> Please check you string resources and try again!")
+		os.Exit(1)
 	}
 }
